@@ -43,7 +43,30 @@ DDL: June 2th, 2020
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 一点吐槽：
 
 有一说一这个题属实NT。首先这个靠软件就能实现，Java它不香吗？Python它不香吗？另外，打分方式也是弱智，跳一跳实际在电脑上哪怕用像素测量，都还是会受到视角变化造成的干扰，1000分根本起不到检验效果。结合来看只不过是老师想不到好题了所以随便对付学生的，是这样吧！？
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2021 IlllIlIlIIlIl
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

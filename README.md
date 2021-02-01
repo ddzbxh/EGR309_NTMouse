@@ -1,4 +1,4 @@
-# EGR309_ProjectFinal
+# EGR309_ProjectFinal_SC_NTMouse
 DDL: June 2th, 2020
 
 【说明】：
